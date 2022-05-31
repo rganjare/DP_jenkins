@@ -1,6 +1,6 @@
-folder('CI-pipeline') {
-    displayName('CI-pipeline')
-    description('CI-pipeline')
+folder('CI-pipelines') {
+    displayName('CI-pipelines')
+    description('CI-pipelines')
 }
 multibranchPipelineJob('cart') {
     branchSources {
