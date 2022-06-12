@@ -1,5 +1,5 @@
 - name: Check Jenkins Connection
-  shell: "{{JENKINS_CLI_PREFIX}} who-am-i "
+  shell: "{{JENKINS_CLI_PREFIX}} who-am-i"
 
 - name: Create Jenkins Folders
   include_tasks: folders-job.yml
