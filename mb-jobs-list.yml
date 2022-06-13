@@ -1,8 +1,8 @@
 MB_JOBS:
-  - {name: "cart", repoName: "DP_cart", dirName: "CI-Pipelines/"}
-  - {name: "catalogue", repoName: "DP_catalogue", dirName: "CI-Pipelines/"}
-  - {name: "user", repoName: "DP_user", dirName: "CI-Pipelines/"}
-  - {name: "shipping", repoName: "DP_shipping", dirName: "CI-Pipelines/"}
-  - {name: "payment", repoName: "DP_payment", dirName: "CI-Pipelines/"}
-  - {name: "frontend", repoName: "DP_frontend", dirName: "CI-Pipelines/"}
-  - {name: "dispatch", repoName: "DP_dispatch", dirName: "CI-Pipelines/"}
+  - {name: "DP_cart", repoName: "DP_cart", dirName: "CI-Pipelines/"}
+  - {name: "DP_catalogue", repoName: "DP_catalogue", dirName: "CI-Pipelines/"}
+  - {name: "DP_user", repoName: "DP_user", dirName: "CI-Pipelines/"}
+  - {name: "DP_shipping", repoName: "DP_shipping", dirName: "CI-Pipelines/"}
+  - {name: "DP_payment", repoName: "DP_payment", dirName: "CI-Pipelines/"}
+  - {name: "DP_frontend", repoName: "DP_frontend", dirName: "CI-Pipelines/"}
+  - {name: "DP_dispatch", repoName: "DP_dispatch", dirName: "CI-Pipelines/"}
